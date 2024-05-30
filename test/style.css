@@ -1,0 +1,21 @@
+.style1{
+    color: blue;
+}
+.style2{
+    color:purple;
+}
+ul li a{
+    color:pink;
+}
+a:hover{
+    color:darkblue;
+}
+a:active{
+    color:brown;
+}
+#identified{
+    background-color:skyblue;
+}
+table,th,td{
+    border:1px solid blue;
+}
