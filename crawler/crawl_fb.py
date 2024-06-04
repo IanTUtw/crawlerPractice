@@ -8,8 +8,8 @@ from selenium.webdriver.common.by import By
 
 # 你的資訊
 url = "https://www.facebook.com/"
-email = "i121989@yahoo.com.tw"
-password = "ian121989"
+email = ""
+password = ""
 
 # 防止跳出通知
 chrome_options = webdriver.ChromeOptions()
